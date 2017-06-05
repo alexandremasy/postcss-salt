@@ -1,9 +1,0 @@
-h1 {
-	font-family: "Open Sans", fontstack("Arial");
-	font-size: $xs;
-
-	@include media(xs)
-	{
-
-	}
-}
