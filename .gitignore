@@ -8,6 +8,10 @@ node_modules
 build
 var
 .sass-cache
+.bundle
+Gemfile.lock
+_site
+*.gem
 
 #####################################################
 #
